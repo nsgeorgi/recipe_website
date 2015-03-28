@@ -1,5 +1,5 @@
 
 
-This week I built a recipe box, with nested forms (each recipe has multiple ingredients and multiple steps), image uploading, and using HAML instead of ERB.
+ I built a recipe box, with nested forms (each recipe has multiple ingredients and multiple steps), image uploading, and using HAML instead of ERB.
 
 {View the demo application here}[http://week-3-recipe-box.herokuapp.com/]
